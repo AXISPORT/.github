@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050508"/>
+      <stop offset="100%" style="stop-color:#0f0f18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#14b8a6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="80" fill="url(#bg)" rx="12"/>
+
+  <g font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#94a3b8">
+    <!-- Row 1 -->
+    <text x="30" y="30" fill="#10b981" font-weight="600">React</text>
+    <text x="90" y="30" opacity="0.3">·</text>
+    <text x="105" y="30" fill="#10b981" font-weight="600">Next.js</text>
+    <text x="175" y="30" opacity="0.3">·</text>
+    <text x="190" y="30" fill="#10b981" font-weight="600">TypeScript</text>
+    <text x="290" y="30" opacity="0.3">·</text>
+    <text x="305" y="30" fill="#10b981" font-weight="600">Node.js</text>
+    <text x="375" y="30" opacity="0.3">·</text>
+    <text x="390" y="30" fill="#10b981" font-weight="600">Python</text>
+    <text x="455" y="30" opacity="0.3">·</text>
+    <text x="470" y="30" fill="#10b981" font-weight="600">Go</text>
+    <text x="500" y="30" opacity="0.3">·</text>
+    <text x="515" y="30" fill="#10b981" font-weight="600">Rust</text>
+    <text x="560" y="30" opacity="0.3">·</text>
+    <text x="575" y="30" fill="#10b981" font-weight="600">Java</text>
+    <text x="615" y="30" opacity="0.3">·</text>
+    <text x="630" y="30" fill="#10b981" font-weight="600">PostgreSQL</text>
+    <text x="730" y="30" opacity="0.3">·</text>
+    <text x="745" y="30" fill="#10b981" font-weight="600">Redis</text>
+
+    <!-- Row 2 -->
+    <text x="30" y="58" fill="#14b8a6" font-weight="600">Docker</text>
+    <text x="95" y="58" opacity="0.3">·</text>
+    <text x="110" y="58" fill="#14b8a6" font-weight="600">Kubernetes</text>
+    <text x="215" y="58" opacity="0.3">·</text>
+    <text x="230" y="58" fill="#14b8a6" font-weight="600">AWS</text>
+    <text x="265" y="58" opacity="0.3">·</text>
+    <text x="280" y="58" fill="#14b8a6" font-weight="600">Azure</text>
+    <text x="325" y="58" opacity="0.3">·</text>
+    <text x="340" y="58" fill="#14b8a6" font-weight="600">Terraform</text>
+    <text x="420" y="58" opacity="0.3">·</text>
+    <text x="435" y="58" fill="#14b8a6" font-weight="600">MongoDB</text>
+    <text x="515" y="58" opacity="0.3">·</text>
+    <text x="530" y="58" fill="#14b8a6" font-weight="600">Elasticsearch</text>
+    <text x="650" y="58" opacity="0.3">·</text>
+    <text x="665" y="58" fill="#14b8a6" font-weight="600">Tailwind CSS</text>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="120" viewBox="0 0 800 120">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050508"/>
+      <stop offset="100%" style="stop-color:#0f0f18"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#14b8a6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="120" fill="url(#bg)" rx="12"/>
+  <rect x="0" y="0" width="800" height="1" fill="url(#accent)" opacity="0.3"/>
+
+  <!-- Stats -->
+  <g font-family="'Inter', 'Segoe UI', sans-serif">
+    <!-- 150+ Projects -->
+    <text x="100" y="50" font-weight="700" font-size="32" fill="url(#accent)" text-anchor="middle">150+</text>
+    <text x="100" y="78" font-weight="400" font-size="13" fill="#94a3b8" text-anchor="middle">Projects Delivered</text>
+
+    <!-- Divider -->
+    <line x1="200" y1="30" x2="200" y2="90" stroke="#334155" stroke-width="1" opacity="0.5"/>
+
+    <!-- 99.9% Uptime -->
+    <text x="300" y="50" font-weight="700" font-size="32" fill="url(#accent)" text-anchor="middle">99.9%</text>
+    <text x="300" y="78" font-weight="400" font-size="13" fill="#94a3b8" text-anchor="middle">Uptime Guarantee</text>
+
+    <!-- Divider -->
+    <line x1="400" y1="30" x2="400" y2="90" stroke="#334155" stroke-width="1" opacity="0.5"/>
+
+    <!-- 24/7 -->
+    <text x="500" y="50" font-weight="700" font-size="32" fill="url(#accent)" text-anchor="middle">24/7</text>
+    <text x="500" y="78" font-weight="400" font-size="13" fill="#94a3b8" text-anchor="middle">Support &amp; Monitoring</text>
+
+    <!-- Divider -->
+    <line x1="600" y1="30" x2="600" y2="90" stroke="#334155" stroke-width="1" opacity="0.5"/>
+
+    <!-- 100% GDPR -->
+    <text x="700" y="50" font-weight="700" font-size="32" fill="url(#accent)" text-anchor="middle">100%</text>
+    <text x="700" y="78" font-weight="400" font-size="13" fill="#94a3b8" text-anchor="middle">GDPR Compliant</text>
+  </g>
+
+  <rect x="0" y="119" width="800" height="1" fill="url(#accent)" opacity="0.2"/>
+</svg>
