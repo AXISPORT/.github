@@ -20,19 +20,11 @@
 
 ## 🏢 &nbsp; Wer wir sind
 
-**Axis/Port.** ist ein deutsches IT-Unternehmen mit Sitz in Berlin — gegründet Anfang 2026 von **Nico** (Co-Founder & CSO) und **Kevin** (Co-Founder & CTO). Wir schließen die Lücke zwischen Technologie und Geschäftserfolg.
+**Axis/Port.** ist ein deutsches IT-Unternehmen mit Sitz in Itzehoe — gegründet Anfang 2026 von **Nico** (Geschäftsführer & Co-Founder) und **Kevin** (Geschäftsführer & Co-Founder). Wir schließen die Lücke zwischen Technologie und Geschäftserfolg.
 
-> *„Wir glauben daran, dass großartige Software durch Leidenschaft, Präzision und den richtigen Partner entsteht."*
+> _„Wir glauben daran, dass großartige Software durch Leidenschaft, Präzision und den richtigen Partner entsteht."_
 
 Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der mitdenkt, vorausplant und Verantwortung übernimmt — für IT-Lösungen, die nicht nur funktionieren, sondern Wachstum ermöglichen.
-
-<br>
-
-<picture>
-  <img alt="Axis/Port. Key Stats" src="assets/stats.svg" width="100%">
-</picture>
-
-<br>
 
 <picture>
   <img alt="" src="assets/divider.svg" width="100%">
@@ -229,7 +221,7 @@ Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der m
       <br>
       <img src="https://img.shields.io/badge/Co--Founder_&_CSO-Nico-10b981?style=for-the-badge&labelColor=050508" alt="Nico — Geschäftsführer & Co-Founder">
       <br><br>
-      <strong>Nico — Co-Founder & CSO</strong>
+      <strong>Nico — Geschäftsführer & Co-Founder</strong>
       <br><br>
       <sub>Stratege, Unternehmer und Antrieb hinter der Geschäftsentwicklung. Nico verbindet technisches Verständnis mit unternehmerischer Weitsicht und sorgt dafür, dass jedes Projekt nicht nur technisch exzellent, sondern auch geschäftlich erfolgreich ist.</sub>
       <br><br>
@@ -238,7 +230,7 @@ Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der m
       <br>
       <img src="https://img.shields.io/badge/Co--Founder_&_CTO-Kevin-14b8a6?style=for-the-badge&labelColor=050508" alt="Kevin — Geschäftsführer & Co-Founder">
       <br><br>
-      <strong>Kevin — Co-Founder & CTO</strong>
+      <strong>Kevin — Geschäftsführer & Co-Founder</strong>
       <br><br>
       <sub>Technischer Kopf mit Leidenschaft für sauberen Code, Sicherheitsarchitekturen und innovative Lösungen. Kevin treibt die technische Vision voran und stellt sicher, dass jede Zeile Code den höchsten Standards entspricht.</sub>
       <br><br>
