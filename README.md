@@ -227,7 +227,7 @@ Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der m
   <tr>
     <td align="center" width="50%">
       <br>
-      <img src="https://img.shields.io/badge/Co--Founder_&_CSO-Nico-10b981?style=for-the-badge&labelColor=050508" alt="Nico — Co-Founder & CSO">
+      <img src="https://img.shields.io/badge/Co--Founder_&_CSO-Nico-10b981?style=for-the-badge&labelColor=050508" alt="Nico — Geschäftsführer & Co-Founder">
       <br><br>
       <strong>Nico — Co-Founder & CSO</strong>
       <br><br>
@@ -236,7 +236,7 @@ Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der m
     </td>
     <td align="center" width="50%">
       <br>
-      <img src="https://img.shields.io/badge/Co--Founder_&_CTO-Kevin-14b8a6?style=for-the-badge&labelColor=050508" alt="Kevin — Co-Founder & CTO">
+      <img src="https://img.shields.io/badge/Co--Founder_&_CTO-Kevin-14b8a6?style=for-the-badge&labelColor=050508" alt="Kevin — Geschäftsführer & Co-Founder">
       <br><br>
       <strong>Kevin — Co-Founder & CTO</strong>
       <br><br>
