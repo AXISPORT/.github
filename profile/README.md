@@ -359,10 +359,6 @@ Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der m
     <td>📞 &nbsp; <strong>Telefon</strong></td>
     <td><a href="tel:+494821639470">+49 4821 6394707</a></td>
   </tr>
-  <tr>
-    <td>🕐 &nbsp; <strong>Erreichbarkeit</strong></td>
-    <td>Mo–Fr: 09:00 – 18:00 Uhr</td>
-  </tr>
 </table>
 
 <br />
