@@ -35,7 +35,7 @@
 
 ## 🏢 &nbsp; Wer wir sind
 
-**Axis/Port.** ist ein deutsches IT-Unternehmen mit Sitz in Oelixdorf, Schleswig-Holstein — gegründet 2026 von **Nico Freitag** (Geschäftsführer & Co-Founder) und **Kevin Kröger** (Geschäftsführer & Co-Founder). Wir schließen die Lücke zwischen Technologie und Geschäftserfolg.
+**Axis/Port.** ist ein deutsches IT-Unternehmen mit Sitz in Oelixdorf, Schleswig-Holstein — gegründet 2026 von **Nico Freitag** (Geschäftsführer & Founder) und **Kevin Kröger** (Geschäftsführer & Founder). Wir schließen die Lücke zwischen Technologie und Geschäftserfolg.
 
 > _„Wir glauben daran, dass großartige Software durch Leidenschaft, Erfahrung und den richtigen Partner entsteht."_
 
