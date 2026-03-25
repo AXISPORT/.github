@@ -238,7 +238,7 @@ Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der m
       <br>
       <img src="https://img.shields.io/badge/Co--Founder_&_CSO-Nico-10b981?style=for-the-badge&labelColor=050508" alt="Nico">
       <br><br>
-      <strong>Nico Freitag — Geschäftsführer & Co-Founder</strong>
+      <strong>Nico Freitag - Geschäftsführer & Founder</strong>
       <br><br>
       <sub>Stratege, Unternehmer und Antrieb hinter der Geschäftsentwicklung. Nico verbindet technisches Verständnis mit unternehmerischer Weitsicht und sorgt dafür, dass jedes Projekt nicht nur technisch exzellent, sondern auch geschäftlich erfolgreich ist.</sub>
       <br><br>
@@ -247,7 +247,7 @@ Wir sind kein Dienstleister, der Tickets abarbeitet. Wir sind ein Partner, der m
       <br>
       <img src="https://img.shields.io/badge/Co--Founder_&_CTO-Kevin-14b8a6?style=for-the-badge&labelColor=050508" alt="Kevin">
       <br><br>
-      <strong>Kevin Kröger — Geschäftsführer & Co-Founder</strong>
+      <strong>Kevin Kröger - Geschäftsführer & Founder</strong>
       <br><br>
       <sub>Technischer Kopf mit Leidenschaft für sauberen Code, Sicherheitsarchitekturen und innovative Lösungen. Kevin treibt die technische Vision voran und stellt sicher, dass jede Zeile Code den höchsten Standards entspricht.</sub>
       <br><br>
