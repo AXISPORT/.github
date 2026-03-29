@@ -72,7 +72,6 @@ Wir bauen Software, sichern Infrastruktur und integrieren KI. Gegründet 2026 in
 **Nico Freitag** · Founder & CEO
 <br />
 **Kevin Kröger** · Founder & CTO
-Oelixdorf, Schleswig-Holstein
 
 <br />
 
