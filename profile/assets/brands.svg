@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508"/>
+      <stop offset="100%" stop-color="#0f0f18"/>
+    </linearGradient>
+    <linearGradient id="emerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" rx="12" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#emerald)" opacity="0.4"/>
+
+  <!-- ==================== -->
+  <!-- AXIS/PORT.           -->
+  <!-- ==================== -->
+  <rect x="20" y="20" width="270" height="180" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="20" y="20" width="270" height="3" rx="1.5" fill="url(#emerald)" opacity="0.8"/>
+
+  <!-- Brand name -->
+  <text x="42" y="58" font-family="'Sora', 'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="22" fill="#f1f5f9">AXIS/<tspan fill="#10b981">PORT.</tspan></text>
+  <text x="42" y="76" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#10b981" opacity="0.5" letter-spacing="1.5">MUTTERMARKE</text>
+
+  <line x1="42" y1="88" x2="268" y2="88" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Description -->
+  <text x="42" y="110" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Full-Service-Digitalagentur.</text>
+  <text x="42" y="128" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Software, Security, KI, Cloud,</text>
+  <text x="42" y="146" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Webdesign &amp; Schulungen.</text>
+
+  <!-- Tech pills -->
+  <rect x="42" y="162" width="50" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.8"/>
+  <text x="67" y="176" text-anchor="middle" font-family="'Inter', sans-serif" font-size="9" fill="#6b7280">Next.js</text>
+  <rect x="98" y="162" width="44" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.8"/>
+  <text x="120" y="176" text-anchor="middle" font-family="'Inter', sans-serif" font-size="9" fill="#6b7280">React</text>
+  <rect x="148" y="162" width="40" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.8"/>
+  <text x="168" y="176" text-anchor="middle" font-family="'Inter', sans-serif" font-size="9" fill="#6b7280">AWS</text>
+  <rect x="194" y="162" width="34" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.8"/>
+  <text x="211" y="176" text-anchor="middle" font-family="'Inter', sans-serif" font-size="9" fill="#6b7280">K8s</text>
+
+  <!-- Link -->
+  <text x="42" y="196" font-family="'Inter', sans-serif" font-size="11" fill="#58a6ff">axisport.de &#x2192;</text>
+
+  <!-- ==================== -->
+  <!-- AXIS/LAUNCH.         -->
+  <!-- ==================== -->
+  <rect x="315" y="20" width="270" height="180" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="315" y="20" width="270" height="3" rx="1.5" fill="url(#orange)" opacity="0.8"/>
+
+  <!-- Brand name -->
+  <text x="337" y="58" font-family="'Sora', 'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="22" fill="#f1f5f9">AXIS/<tspan fill="#ea580c">LAUNCH.</tspan></text>
+  <text x="337" y="76" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#ea580c" opacity="0.5" letter-spacing="1.5">STARTUP LAUNCHPAD</text>
+
+  <line x1="337" y1="88" x2="563" y2="88" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Description -->
+  <text x="337" y="110" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Equity-basierter Technologie-</text>
+  <text x="337" y="128" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">partner fuer Startups.</text>
+  <text x="337" y="146" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Vom Pitch zum Launch.</text>
+
+  <!-- Tech pills -->
+  <rect x="337" y="162" width="50" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.8"/>
+  <text x="362" y="176" text-anchor="middle" font-family="'Inter', sans-serif" font-size="9" fill="#6b7280">Next.js</text>
+  <rect x="393" y="162" width="56" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.8"/>
+  <text x="421" y="176" text-anchor="middle" font-family="'Inter', sans-serif" font-size="9" fill="#6b7280">Tailwind</text>
+  <rect x="455" y="162" width="44" height="20" rx="10" fill="none" stroke="#30363d" stroke-width="0.8"/>
+  <text x="477" y="176" text-anchor="middle" font-family="'Inter', sans-serif" font-size="9" fill="#6b7280">React</text>
+
+  <!-- Status + Link -->
+  <circle cx="347" cy="193" r="3.5" fill="#ea580c"/>
+  <text x="357" y="196" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ea580c" opacity="0.7">Live</text>
+  <text x="397" y="196" font-family="'Inter', sans-serif" font-size="11" fill="#58a6ff">launch.axisport.de &#x2192;</text>
+
+  <!-- ==================== -->
+  <!-- Axis/One.            -->
+  <!-- ==================== -->
+  <rect x="610" y="20" width="270" height="180" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
+  <rect x="610" y="20" width="270" height="3" rx="1.5" fill="url(#sky)" opacity="0.8"/>
+
+  <!-- Brand name -->
+  <text x="632" y="58" font-family="'Sora', 'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="22" fill="#f1f5f9">Axis/<tspan fill="#0EA5E9">One.</tspan></text>
+  <text x="632" y="76" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="9" fill="#0EA5E9" opacity="0.5" letter-spacing="1.5">SAAS-PLATTFORM</text>
+
+  <line x1="632" y1="88" x2="858" y2="88" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Description -->
+  <text x="632" y="110" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Modulare IT-Management-</text>
+  <text x="632" y="128" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">Plattform. 8 Module,</text>
+  <text x="632" y="146" font-family="'Inter', 'Segoe UI', sans-serif" font-size="12" fill="#8b949e">eine Plattform.</text>
+
+  <!-- Module color dots -->
+  <rect x="632" y="163" width="8" height="8" rx="2" fill="#F5A623" opacity="0.8"/>
+  <rect x="646" y="163" width="8" height="8" rx="2" fill="#76FF03" opacity="0.8"/>
+  <rect x="660" y="163" width="8" height="8" rx="2" fill="#00BCD4" opacity="0.8"/>
+  <rect x="674" y="163" width="8" height="8" rx="2" fill="#B388FF" opacity="0.8"/>
+  <rect x="688" y="163" width="8" height="8" rx="2" fill="#FF6D3A" opacity="0.8"/>
+  <rect x="702" y="163" width="8" height="8" rx="2" fill="#26A69A" opacity="0.8"/>
+  <rect x="716" y="163" width="8" height="8" rx="2" fill="#FF3D57" opacity="0.8"/>
+  <rect x="730" y="163" width="8" height="8" rx="2" fill="#448AFF" opacity="0.8"/>
+  <text x="748" y="171" font-family="'JetBrains Mono', monospace" font-size="9" fill="#4b5563">8 Module</text>
+
+  <!-- Status -->
+  <circle cx="642" cy="193" r="3.5" fill="#0EA5E9" opacity="0.5"/>
+  <text x="652" y="196" font-family="'JetBrains Mono', monospace" font-size="10" fill="#0EA5E9" opacity="0.7">In Entwicklung</text>
+
+  <!-- Bottom accent -->
+  <rect x="0" y="218.5" width="900" height="1.5" fill="url(#emerald)" opacity="0.2"/>
+</svg>
